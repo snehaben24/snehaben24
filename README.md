@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I’m a data enthusiast who loves transforming dat
 ---
 
 ## 🌟 Featured Projects
-### 1. [Clinical-Resource-Optimization-through-Predictive-Analytics] (https://github.com/snehaben24/Clinical-Resource-Optimization-through-Predictive-Analytics)
+### 1. [Clinical-Resource-Optimization-through-Predictive-Analytics](https://github.com/snehaben24/Clinical-Resource-Optimization-through-Predictive-Analytics)
 💡 *A predictive analytics project designed to optimize clinical resource allocation, improve patient care, and enhance operational efficiency.*
 - **Tech stack**: Python, Scikit-learn, Pandas
 - **Key highlights**: Developed predictive models that helped in resource allocation, reducing operational delays and optimizing hospital management.
