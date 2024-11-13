@@ -25,19 +25,20 @@ Welcome to my GitHub profile! I’m a data enthusiast who loves transforming dat
 ---
 
 ## 🌟 Featured Projects
-### 1. [Customer Churn Prediction](https://github.com/yourusername/customer-churn-prediction)
-🚀 *An end-to-end machine learning pipeline to predict customer churn, complete with data cleaning, feature engineering, model building, and deployment.*
-- **Tech stack**: Python, Scikit-learn, Streamlit
-- **Key highlights**: Achieved 92% accuracy and deployed using Streamlit for live demo.
+### 1. [Clinical-Resource-Optimization-through-Predictive-Analytics] (https://github.com/snehaben24/Clinical-Resource-Optimization-through-Predictive-Analytics)
+💡 *A predictive analytics project designed to optimize clinical resource allocation, improve patient care, and enhance operational efficiency.*
+- **Tech stack**: Python, Scikit-learn, Pandas
+- **Key highlights**: Developed predictive models that helped in resource allocation, reducing operational delays and optimizing hospital management.
 
-### 2. [Automated Onboarding Process](https://github.com/yourusername/automated-onboarding)
-🤖 *A Google Apps Script project to automate the onboarding workflow, streamlining communication and tracking for a smoother experience.*
-- **Key highlights**: Reduced manual efforts by 60% and improved overall efficiency.
+### 2. [Skin Disease Detection and Classification](https://github.com/snehaben24/Skin-disease-detection-and-classification)
+🩺 *An AI-powered project to detect and classify various skin diseases using machine learning models.*
+- **Tech stack**: Python, TensorFlow, OpenCV
+- **Key highlights**: Achieved high accuracy using CNNs and data augmentation techniques to improve model generalizability.
 
-### 3. [Exploratory Data Analysis on Global Health Data](https://github.com/yourusername/global-health-eda)
-📊 *Detailed analysis and visualization to uncover trends and insights in global health metrics.*
-- **Visuals included**: Interactive charts with `Plotly` and `Seaborn`.
-- **Key highlights**: Gained insights into life expectancy and income disparities globally.
+### 3. [Clustering on Mental Health Survey Data](https://github.com/snehaben24/Clustering-on-mental-health-survey-data)
+🧠 *A clustering project analyzing mental health survey data to uncover insights and patterns related to mental health issues.*
+- **Tech stack**: Python, Scikit-learn, Pandas, Seaborn
+- **Key highlights**: Used clustering algorithms to segment participants based on mental health factors, aiding in targeted mental health initiatives.
 
 ---
 
