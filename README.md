@@ -26,25 +26,25 @@ Welcome to my GitHub profile! I’m a data enthusiast who loves transforming dat
 
 ## 🌟 Featured Projects
 
-### 1. [Online Payment Fraud Detection](https://github.com/yourusername/online-payment-fraud-detection)
+### 1. [Online Payment Fraud Detection](https://github.com/snehaben24/Online-Payment-Fraud-detection)
 💳 *A machine learning project to detect fraudulent transactions using real-world banking data.*
 - **Tech Stack**: Python, Scikit-learn, Pandas
 - **Key Features**: Includes exploratory data analysis, predictive modeling, and fraud trend visualization.
 - **Results**: Achieved 91% recall on detecting fraudulent transactions using Decision Tree Classifier.
 
-### 2. [Clustering on Mental Health Survey Data](https://github.com/yourusername/mental-health-clustering)
+### 2. [Clustering on Mental Health Survey Data](https://github.com/snehaben24/Clustering-on-mental-health-survey-data)
 🧠 *A clustering project that identifies patterns in mental health survey data.*
 - **Tech Stack**: Python, Scikit-learn, Matplotlib
 - **Key Features**: Applied K-Means clustering and exploratory data analysis to segment participants.
 - **Outcome**: Provided actionable insights into mental health demographics.
 
-### 3. [Walmart Sales Analysis](https://github.com/yourusername/walmart-sales-analysis)
+### 3. [Walmart Sales Analysis](https://github.com/snehaben24/Sales_data_forecasting_walmart)
 📊 *An analytics and forecasting project to uncover sales trends at Walmart stores.*
 - **Tech Stack**: Python, Statsmodels, Matplotlib
 - **Key Features**: Time series analysis using ARIMA, feature engineering, and machine learning models for prediction.
 - **Outcome**: Delivered accurate sales forecasts and visualized seasonal trends.
 
-### 4. [Skin Disease Detection and Classification](https://github.com/yourusername/skin-disease-detection)
+### 4. [Skin Disease Detection and Classification](https://github.com/snehaben24/Skin-disease-detection-and-classification)
 🩺 *A deep learning project to detect and classify skin diseases using dermoscopic images.*
 - **Tech Stack**: Python, TensorFlow, OpenCV
 - **Key Features**: Convolutional Neural Networks (CNNs) for image classification with a focus on dermatology.
