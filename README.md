@@ -71,7 +71,7 @@ Welcome to my GitHub profile! I’m a data enthusiast who loves transforming dat
 ## 🤝 Let's Connect!
 - 💼 [LinkedIn](https://www.linkedin.com/in/snehabency/)
 - 📫 Email: [snehamarybency@gmail.com](mailto:your.email@example.com)
-- 🌐 [Portfolio Website](https://yourportfolio.com)
+- 🌐 [Portfolio Website]([https://yourportfolio.com](https://snehaben24.github.io/Portfolio/))
 
 ✨ Feel free to explore my projects and connect with me for collaborations, job opportunities, or just to talk about data!
 
